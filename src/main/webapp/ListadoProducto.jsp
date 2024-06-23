@@ -15,7 +15,7 @@
 <h1 align="center">Listado de Productos</h1>
 
 <h2 align="center">
-<a href="FormRegistrarProducto.jsp">Registrar Producto</a>
+<a href="FormRegistarProducto.jsp">Registrar Producto</a>
 </h2>
 
 <table border="2" align="center">
@@ -52,7 +52,7 @@ if(listadoproducto !=null){
 
 </table>
 
-Enviar mensaje a go fornait
+
 
 
 </body>
